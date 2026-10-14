@@ -1,0 +1,4 @@
+*venv
+*.ipynb
+*node_modules
+*pdf
