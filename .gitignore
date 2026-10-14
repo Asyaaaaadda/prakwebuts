@@ -5,3 +5,6 @@ __pycache__/
 *.py[cod]
 .env
 .streamlit/secrets.toml
+*.ipynb
+node_modules/
+*.pdf
